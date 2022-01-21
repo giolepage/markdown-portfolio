@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Reading
+* Ballet
+* Star wars movies
+* P.F. Chang's
